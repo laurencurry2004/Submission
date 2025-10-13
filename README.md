@@ -75,7 +75,7 @@ The project involved collaborating with an AI to refine the storyline, simplify 
 ### Cover Image Creation
 - **User Request:**  
   “Let's start with creating an image for the front of the book. Create an interesting and inviting image of Jesus and the story of Easter. It shouldn't show any graphic images as it is for children. It should have the title of the story in big bold letters that have a fun font.”
-  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/images/unamed.png)
+  ![Alt text](./Submission/image1.png)
 - **Follow-Up:**  
   “Make sure the title says ‘Jesus’s Easter Story: From Darkness to Light.’”  
 - **Outcome:**  
