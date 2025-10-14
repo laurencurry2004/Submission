@@ -1,6 +1,6 @@
 # AI and ART — Submission
 
-## AI Process Journal: *"Jesus’s Easter Story: From Darkness to Light"*
+# "Jesus’s Easter Story: From Darkness to Light" - AI Made
 
 ---
 
@@ -75,117 +75,111 @@ The project involved collaborating with an AI to refine the storyline, simplify 
 ### Cover Image Creation
 - **User Request:**  
   “Let's start with creating an image for the front of the book. Create an interesting and inviting image of Jesus and the story of Easter. It shouldn't show any graphic images as it is for children. It should have the title of the story in big bold letters that have a fun font.”
-  ![Alt text](./Submission/image1.png)
+
 - **Follow-Up:**  
   “Make sure the title says ‘Jesus’s Easter Story: From Darkness to Light.’”  
-- **Outcome:**  
-  The AI repeatedly misspelled the title, but the final image was accepted.
+- **AI Response:** It couldn’t spell the title correctly, even after I tried to ask it multiple times. So I ended up going with this image
+- **You said:** "It is still spelled incorrectly but I guess we will go with it. Can you create an image for each chapter that is engaging for kids but also relates to the content of each corresponding chapter."
+
 
 ### Chapter Images
 **Chapter 1:** Jesus Enters Jerusalem  
+
 **Chapter 2:** The Last Supper  
-- Refinement: Removed modern elements (e.g., an electric light fixture).  
+- **Refinements:** "That's ok but they wouldn't have electricity during this time. Can you remove the light fixture at the top of the image?"
+- **You said:** "ok these aren't great i'll just use the first one you generated"
+
 
 **Chapter 3:** The Betrayal and Arrest  
-- Refinement: Adjusted to show Jesus alone.  
+- **Refinements:** "the image should show Jesus alone?"
+- **You said:** "ok that’s better"
+
 
 **Chapter 4:** The Trial and Crucifixion  
-- Refinement: Made tone more appropriate for children.  
+- **Refinements:** "Jesus should look very sad?" or “Create an image that shows Jesus carrying his own cross on his back that is appropriate for children.”
+- **You said:** "This is ok for now"
+
 
 **Chapter 5:** The Resurrection  
-- Refinement: Reduced theatrical elements.  
+- **Refinements:** "less theatrical”
+- **You said:** "I’ll just go with the first one"
+ 
 
 ---
 
 ## 📚 A Children’s Tale Inspired by a Beloved Christian Story
 
 ### Chapter 1 — *Jesus Enters Jerusalem*
-One sunny day, Jesus rode into Jerusalem on a donkey. The people were so happy to see him! They waved palm branches and shouted “Hosanna!” which means *“Save us now”* in Hebrew.  
+  One sunny day, Jesus rode into Jerusalem on a donkey. The people were so happy to see him! They waved palm branches and shouted “Hosanna!” which means *“Save us now”* in Hebrew.  
 This was the beginning of a very important week in Jesus’s life.
 
 ---
 
 ### Chapter 2 — *The Last Supper*
-Jesus had a special meal with his twelve disciples called the Last Supper. He shared bread and wine, explaining that these were symbols of his body and blood.  
-He also washed their feet to show that even a leader should serve others with love and humility.
+  Jesus had a special meal with his twelve disciples, called the Last Supper. He shared bread and wine with them and explained that these were symbols of his body and blood. 
+  Jesus told his disciples to remember him whenever they shared this meal. He also washed their feet to show them that even a leader should serve others with love and kindness.
+
 
 ---
 
 ### Chapter 3 — *The Betrayal and Arrest*
-After the meal, Jesus went to a garden called Gethsemane to pray.  
-He was sad because he knew what was about to happen, but he accepted God’s plan.  
-Meanwhile, Judas betrayed him to the leaders for thirty pieces of silver, and soldiers came to arrest Jesus.
+  After the Last Supper, Jesus went to a garden called Gethsemane to pray. He was very sad because he knew what was going to happen. Jesus prayed to God, asking if there was any way to avoid the suffering he was about to face, but he accepted God's plan.
+  Meanwhile, Judas, one of Jesus's disciples, had made a deal with the religious leaders to betray Jesus for thirty pieces of silver. The leaders thought Jesus was lying about being the Son of God, which they considered very disrespectful. Judas led some soldiers to the garden and showed them who Jesus was by greeting him with a kiss on the cheek. 
+  This was a common way to say hello back then. The soldiers arrested Jesus, and his disciples ran away, scared and confused.
+
 
 ---
 
 ### Chapter 4 — *The Trial and Crucifixion*
-Jesus was brought before Pontius Pilate, who found no reason for punishment.  
-However, the crowd demanded crucifixion, and Jesus carried his cross to Golgotha.  
-Even as he suffered, he forgave those who hurt him.
+  Jesus was taken to Pontius Pilate, the Roman governor. Pilate didn't think Jesus had done anything wrong, but the crowd, influenced by the religious leaders, demanded that Jesus be crucified. Jesus was sentenced to death and had to carry his cross to a place called Golgotha. He was crucified between two criminals. Even while suffering, Jesus forgave the people who were hurting him.
 
-#### Jesus’s Final Words
-- “Father, forgive them, for they do not know what they are doing.” — *Luke 23:34*  
-- “Truly, I say to you, today you will be with me in Paradise.” — *Luke 23:43*  
-- “Woman, behold, your son! … Behold, your mother!” — *John 19:26–27*  
-- “My God, my God, why have you forsaken me?” — *Matthew 27:46*  
-- “I thirst.” — *John 19:28*  
-- “It is finished.” — *John 19:30*  
-- “Father, into your hands I commit my spirit!” — *Luke 23:46*
+Jesus said several important things before he died:
+- "Father, forgive them, for they do not know what they are doing." (Luke 23:34) - Jesus asked God to forgive the people who were crucifying him.
+- "Truly, I say to you, today you will be with me in Paradise." (Luke 23:43) - Jesus told one of the criminals beside him that he would be with Jesus in heaven.
+- "Woman, behold, your son!" Then he said to the disciple, "Behold, your mother!" (John 19:26-27) - Jesus told his mother, Mary, and the disciple John to take care of each other.
+- "My God, my God, why have you forsaken me?" (Matthew 27:46, Mark 15:34) - Jesus cried out to God, feeling very alone.
+- "I thirst." (John 19:28) - Jesus said this to show he was suffering.
+- "It is finished." (John 19:30) - Jesus declared that his mission was complete.
+- "Father, into your hands I commit my spirit!" (Luke 23:46) - Jesus entrusted his spirit to God before he died.
+
+After saying these things, Jesus died.
 
 ---
 
 ### Chapter 5 — *The Resurrection*
-On Easter Sunday, Mary Magdalene and other women went to the tomb and found the stone rolled away.  
-An angel told them that Jesus had risen from the dead. Later, Jesus appeared to his disciples for forty days, teaching them before returning to heaven.
+  Early on Easter Sunday, Mary Magdalene and some other women went to Jesus's tomb to take care of his body. But when they got there, they found the stone rolled away and the tomb empty. An angel told them that Jesus had risen from the dead, meaning he had come back to life. Mary Magdalene ran to tell the disciples, who didn't believe her at first but later saw Jesus themselves.
+  For the next 40 days, Jesus stayed with his disciples, teaching and preparing them for when he would go back to heaven. This time was very special and powerful for the disciples.
 
 ---
 
 ### Chapter 6 — *The Meaning of Easter*
-Easter is a celebration of renewal and joy. God’s sacrifice of Jesus brings forgiveness and eternal life.  
-People celebrate with church services, Easter eggs, and family gatherings—symbolizing love, hope, and new life.
+  Easter is a time of renewal and joy. God sacrificed his only son, Jesus, so that we could be forgiven for our sins and have eternal life in heaven. This amazing sacrifice shows how much God loves us. We should always be thankful for this incredible gift.
+  People celebrate Easter in many ways around the world. They decorate and exchange Easter eggs, which symbolize new life. Churches hold special services with songs, prayers, and joyful gatherings. Families come together to share meals and enjoy each other's company.
+  Easter reminds us of Jesus's love and the promise of eternal life. It's a time to remember the incredible love and sacrifice of Jesus and to celebrate the new life and hope that his resurrection brings to the world.
+
 
 ---
 
-## 🪞 Reflection Essay — *“Jesus’s Easter Story: From Darkness to Light”*
+## ✝️ Reflection Essay — *“Jesus’s Easter Story: From Darkness to Light”*
 
 ### 1. Process Analysis
-This project produced a children’s book that explained Easter through both text and imagery.  
-The creative goal was to engage children aged 7–12. The process required roughly forty pages of AI interaction to refine language, simplify theology, and adjust visuals.  
-Despite challenges with title spelling and image inconsistencies, the final result achieved clarity and engagement.
+  The creative output from this assignment was a children's book that explained the story of Easter. It included the written story, a cover image, and 5 images for each book chapter. My creative aim for this project was to create an engaging story that describes the meaning of Easter for children aged roughly 7-12. I collaborated with Copilot to refine the storyline content so that it incorporated most of the details that are important to retelling Easter. I also worked with AI to aim for child-friendly language, as well as appropriate visuals that were engaging and simple. 
+  My initial expectation for this project was that I wouldn't have to be significantly involved in the creation process, and AI would do most of the work. This, however, was not the case. My overall interaction with AI was around 40 pages long, as I had to frequently correct and revise certain aspects of the written story and the images. Some of the key decisions I made were simplifying theological ideas, refining the narrative and ensuring age-appropriate visuals. Some of the challenges that I was confronted with were repeated misspelling of the title in images, image adjustment errors, and missing content. However, despite these challenges, I was able to successfully adjust my prompts to produce an engaging, child-friendly retelling of Easter. 
 
 ---
 
 ### 2. Technical Understanding
-The AI generated a story closely aligned with biblical accounts but required user input for precision.  
-Key technical refinements included:
-- Adding missing narrative details (e.g., Mary Magdalene discovering the tomb).  
-- Simplifying complex theological terms.  
-- Removing anachronistic visual elements (e.g., modern lighting).
-
-**Future AI Enhancements Could Include:**
-- Better memory retention across sessions.  
-- More accurate recognition of historical time periods.  
-- Consistent art style adherence.  
-- Audience-specific language adaptation.
+  During my initial interaction with Copilot, I was impressed that the storyline created was fairly accurate to the Bible’s accounts of Jesus’s resurrection. I only had to add minimal prompts to strengthen the accuracy. For example, I felt that the story lacked an important detail about who found the tomb empty three days after Jesus’s crucifixion. To fix this, all I had to ask was “Can you add who found Jesus’s tomb empty?" Copilot then added the accurate person to the story, Mary Magdalene. However, much of the language that was used to describe this story did not follow the same plain language most children’s books do. To counter this, I prompted it to simplify the language used which worked well at first, but I eventually just ended up asking it to simplify specific words or phrases as this worked more effectively. I also had to ask it to explain things that children wouldn’t be able to understand to enhance the clarity of the story. 
+  Furthermore, some of the images I asked it to create were fairly accurate to what I wanted. For example, I was pleased with the cover image and chapters 1 and 2’s images as they were close to what I asked for. However, other images had to be revised  repeatedly as the art style changed and/or they were not being generated the way I asked. Some of the images also weren’t very accurate to the time period of the story. For instance, one of the images shows a light fixture that uses electricity. This is not an accurate portrayal of the period, so I had to ask it to revise this. 
+  In the future, Copilot and other generative AI might evolve to fix these errors by becoming better at remembering details more consistently so that users will not have to repeat corrections. It may also improve at recognizing time periods more accurately to correct details, as well as adapt its language automatically as it will be able to distinguish its audience. I also think these models will become better at sticking to certain art styles.
 
 ---
 
 ### 3. Ethical Implications
-This project highlighted several ethical issues regarding AI use in creative and religious education.
-
-**Key Considerations:**
-- AI cannot replace human understanding or faith-based interpretation.  
-- Overreliance on AI may lead to misinformation or cultural dilution.  
-- Increased AI use could impact fair compensation for human authors and artists.
-
-However, human creativity remains irreplaceable — *just as airplanes do not replace birds.*  
-Human oversight ensures ethical and accurate storytelling, especially in religious contexts.
-
----
-
-### ✝️ Conclusion
-This project demonstrates both the potential and limitations of AI in creative education.  
-With responsible human guidance, AI can enhance storytelling while preserving authenticity, accuracy, and faith-based integrity.
+  There are many ethical considerations that arose during this project. One thing I recognized was the way it highlighted how AI can hold a place in our education. While I think AI can certainly help us simplify and explain religious concepts, it's important to understand that it can’t replace human interpretation of Bible stories. This is because it is deeply rooted in personal experiences, traditions and faith which are human-based characteristics. I also think that it is equally important to understand how we can become complacent when we rely on AI creative works. If we begin to widely accept AI generated stories and images about Christianity or other religions without human oversight, we risk the possibility of AI perpetuating misinformation, oversimplifying complex religious ideas, and losing cultural authenticity. Moreover, increased use of AI-generated children’s stories can reduce the demand for human-made stories, raising ethical concerns about fair compensation and artistic value for human illustrators and writers. 
+  However, there is a potential that this may not be an accurate prediction. I think it’s also important to note that there is a potential that we will still value human artists and authors, even with AI creative works present as ‘we don’t think any less of birds when using planes.’ Another ethical consideration that has societal implications is the way AI can subtly shape the way religious stories are told and perceived. This potential for AI to control the way religious concepts are told can lessen human autonomy, as we lose control over religious narratives. Additionally, when AI is not carefully monitored it has the potential to favour certain theological views and perspectives over others, leading to biased interpretations. 
+	For these reasons, I think it is essential to have human oversight on AI systems when tasked with working with religious concepts. This is because AI tools can be futile in religious contexts where genuine understanding, moral reasoning, and emotional depth are needed. This meaningful human control will ensure accuracy and ethical responsibility.
+  I also think that human artists have a better ability to capture cultural and historical nuances within creating religious images, making them better suited than AI-generated images for children's books. Overall, this project demonstrates the need for refined AI models that respect cultural and spiritual ideas, and the need for future enhancements that focus on improving historical accuracy and contextual accuracy. 
 
 ---
 
