@@ -76,6 +76,8 @@ The project involved collaborating with an AI to refine the storyline, simplify 
 - **User Request:**  
   “Let's start with creating an image for the front of the book. Create an interesting and inviting image of Jesus and the story of Easter. It shouldn't show any graphic images as it is for children. It should have the title of the story in big bold letters that have a fun font.”
 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e" />
+
 - **Follow-Up:**  
   “Make sure the title says ‘Jesus’s Easter Story: From Darkness to Light.’”  
 - **AI Response:** It couldn’t spell the title correctly, even after I tried to ask it multiple times. So I ended up going with this image
@@ -84,39 +86,45 @@ The project involved collaborating with an AI to refine the storyline, simplify 
 
 ### Chapter Images
 **Chapter 1:** Jesus Enters Jerusalem  
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e7ff0bfd-3bfa-4233-9b09-4e21075feb8a" />
 
 **Chapter 2:** The Last Supper  
 - **Refinements:** "That's ok but they wouldn't have electricity during this time. Can you remove the light fixture at the top of the image?"
 - **You said:** "ok these aren't great i'll just use the first one you generated"
-
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3c70213f-09b8-4072-9506-ae25f81ea377" />
 
 **Chapter 3:** The Betrayal and Arrest  
 - **Refinements:** "the image should show Jesus alone?"
 - **You said:** "ok that’s better"
-
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c4357f60-bc83-4677-be0d-4d62d0839dd6" />
 
 **Chapter 4:** The Trial and Crucifixion  
 - **Refinements:** "Jesus should look very sad?" or “Create an image that shows Jesus carrying his own cross on his back that is appropriate for children.”
 - **You said:** "This is ok for now"
-
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5c48d63d-eddc-448e-80f0-3537c5f9d947" />
 
 **Chapter 5:** The Resurrection  
 - **Refinements:** "less theatrical”
 - **You said:** "I’ll just go with the first one"
- 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0131ce26-0abd-49b8-895c-37c300fae6a9" />
 
 ---
-
+## FINAL CREATION
 ## 📚 A Children’s Tale Inspired by a Beloved Christian Story
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e" />
 
 ### Chapter 1 — *Jesus Enters Jerusalem*
   One sunny day, Jesus rode into Jerusalem on a donkey. The people were so happy to see him! They waved palm branches and shouted “Hosanna!” which means *“Save us now”* in Hebrew.  
 This was the beginning of a very important week in Jesus’s life.
 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e7ff0bfd-3bfa-4233-9b09-4e21075feb8a" />
+
 ---
 
 ### Chapter 2 — *The Last Supper*
   Jesus had a special meal with his twelve disciples, called the Last Supper. He shared bread and wine with them and explained that these were symbols of his body and blood. 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3c70213f-09b8-4072-9506-ae25f81ea377" />
+  
   Jesus told his disciples to remember him whenever they shared this meal. He also washed their feet to show them that even a leader should serve others with love and kindness.
 
 
@@ -124,7 +132,9 @@ This was the beginning of a very important week in Jesus’s life.
 
 ### Chapter 3 — *The Betrayal and Arrest*
   After the Last Supper, Jesus went to a garden called Gethsemane to pray. He was very sad because he knew what was going to happen. Jesus prayed to God, asking if there was any way to avoid the suffering he was about to face, but he accepted God's plan.
+  <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c4357f60-bc83-4677-be0d-4d62d0839dd6" />
   Meanwhile, Judas, one of Jesus's disciples, had made a deal with the religious leaders to betray Jesus for thirty pieces of silver. The leaders thought Jesus was lying about being the Son of God, which they considered very disrespectful. Judas led some soldiers to the garden and showed them who Jesus was by greeting him with a kiss on the cheek. 
+  <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2e46a8b5-c1e1-49a8-a5e0-7146bb7792cd" />
   This was a common way to say hello back then. The soldiers arrested Jesus, and his disciples ran away, scared and confused.
 
 
@@ -133,6 +143,7 @@ This was the beginning of a very important week in Jesus’s life.
 ### Chapter 4 — *The Trial and Crucifixion*
   Jesus was taken to Pontius Pilate, the Roman governor. Pilate didn't think Jesus had done anything wrong, but the crowd, influenced by the religious leaders, demanded that Jesus be crucified. Jesus was sentenced to death and had to carry his cross to a place called Golgotha. He was crucified between two criminals. Even while suffering, Jesus forgave the people who were hurting him.
 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5c48d63d-eddc-448e-80f0-3537c5f9d947" />
 Jesus said several important things before he died:
 - "Father, forgive them, for they do not know what they are doing." (Luke 23:34) - Jesus asked God to forgive the people who were crucifying him.
 - "Truly, I say to you, today you will be with me in Paradise." (Luke 23:43) - Jesus told one of the criminals beside him that he would be with Jesus in heaven.
@@ -148,6 +159,7 @@ After saying these things, Jesus died.
 
 ### Chapter 5 — *The Resurrection*
   Early on Easter Sunday, Mary Magdalene and some other women went to Jesus's tomb to take care of his body. But when they got there, they found the stone rolled away and the tomb empty. An angel told them that Jesus had risen from the dead, meaning he had come back to life. Mary Magdalene ran to tell the disciples, who didn't believe her at first but later saw Jesus themselves.
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0131ce26-0abd-49b8-895c-37c300fae6a9" />
   For the next 40 days, Jesus stayed with his disciples, teaching and preparing them for when he would go back to heaven. This time was very special and powerful for the disciples.
 
 ---
