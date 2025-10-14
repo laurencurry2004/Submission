@@ -8,7 +8,6 @@ The aim of this project was to create an engaging children's book on the story o
 The project involved collaborating with an AI to refine the storyline, simplify language, provide accurate theological details, and produce appropriate visuals.
 
 ---
-<br>
 
 ### 🧩 Key AI Interactions
 
@@ -54,10 +53,10 @@ The project involved collaborating with an AI to refine the storyline, simplify 
 - **AI Response:**  
   Suggested several options; *“Jesus’s Easter Story: From Darkness to Light”* was selected.
 
----
+___
 <br>
 <br>
-<br>
+
 ## 📖 The AI-Generated Story
 
 ### *Jesus’s Easter Story: From Darkness to Light*
@@ -68,59 +67,68 @@ The project involved collaborating with an AI to refine the storyline, simplify 
 3. The Betrayal and Arrest  
 4. The Trial and Crucifixion  
 5. The Resurrection  
-6. The Meaning of Easter  
+6. The Meaning of Easter
 
----
 <br>
-## 🎨 Image Generation
+
+ ## 🎨 Image Generation
 
 ### Cover Image Creation
 - **User Request:**  
   “Let's start with creating an image for the front of the book. Create an interesting and inviting image of Jesus and the story of Easter. It shouldn't show any graphic images as it is for children. It should have the title of the story in big bold letters that have a fun font.”
 
-<p align="center">
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e">
-</p>
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e"/>
 
+<br>
+<br>
 - **Follow-Up:**  
   “Make sure the title says ‘Jesus’s Easter Story: From Darkness to Light.’”  
 - **AI Response:** It couldn’t spell the title correctly, even after I tried to ask it multiple times. So I ended up going with this image
 - **You said:** "It is still spelled incorrectly but I guess we will go with it. Can you create an image for each chapter that is engaging for kids but also relates to the content of each corresponding chapter."
 
+<br>
+<br>
 
 ### Chapter Images
 **Chapter 1:** Jesus Enters Jerusalem  
-<p align="center">
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/e7ff0bfd-3bfa-4233-9b09-4e21075feb8a" >
-</p>
+<br>
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/e7ff0bfd-3bfa-4233-9b09-4e21075feb8a" />
+
+<br>
+<br>
+<br>
 
 **Chapter 2:** The Last Supper  
 - **Refinements:** "That's ok but they wouldn't have electricity during this time. Can you remove the light fixture at the top of the image?"
 - **You said:** "ok these aren't great i'll just use the first one you generated"
-<p align="center">
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/3c70213f-09b8-4072-9506-ae25f81ea377" >
-</p>
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/3c70213f-09b8-4072-9506-ae25f81ea377" />
+
+<br>
+<br>
+<br>
 
 **Chapter 3:** The Betrayal and Arrest  
 - **Refinements:** "the image should show Jesus alone?"
 - **You said:** "ok that’s better"
-<p align="center">
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/c4357f60-bc83-4677-be0d-4d62d0839dd6" >
-</p>
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/c4357f60-bc83-4677-be0d-4d62d0839dd6" />
+
+<br>
+<br>
+<br>
 
 **Chapter 4:** The Trial and Crucifixion  
 - **Refinements:** "Jesus should look very sad?" or “Create an image that shows Jesus carrying his own cross on his back that is appropriate for children.”
 - **You said:** "This is ok for now"
-<p align="center">
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/5c48d63d-eddc-448e-80f0-3537c5f9d947" >
-</p>
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/5c48d63d-eddc-448e-80f0-3537c5f9d947" />
+
+<br>
+<br>
+<br>
 
 **Chapter 5:** The Resurrection  
 - **Refinements:** "less theatrical”
 - **You said:** "I’ll just go with the first one"
-<p align="center">
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/0131ce26-0abd-49b8-895c-37c300fae6a9" >
-</p>
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/0131ce26-0abd-49b8-895c-37c300fae6a9" />
 
 ---
 <br>
@@ -133,6 +141,8 @@ The project involved collaborating with an AI to refine the storyline, simplify 
 <img width="850" height="850" alt="Image" src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e" >
 </p>
 
+<br>
+
 ### Chapter 1 — *Jesus Enters Jerusalem*
   One sunny day, Jesus rode into Jerusalem on a donkey. The people were so happy to see him! They waved palm branches and shouted “Hosanna!” which means *“Save us now”* in Hebrew.  
 This was the beginning of a very important week in Jesus’s life.
@@ -142,6 +152,7 @@ This was the beginning of a very important week in Jesus’s life.
 </p>
 
 ---
+<br>
 
 ### Chapter 2 — *The Last Supper*
   Jesus had a special meal with his twelve disciples, called the Last Supper. He shared bread and wine with them and explained that these were symbols of his body and blood. 
@@ -154,6 +165,7 @@ This was the beginning of a very important week in Jesus’s life.
 
 
 ---
+<br>
 
 ### Chapter 3 — *The Betrayal and Arrest*
   After the Last Supper, Jesus went to a garden called Gethsemane to pray. He was very sad because he knew what was going to happen. Jesus prayed to God, asking if there was any way to avoid the suffering he was about to face, but he accepted God's plan.
@@ -172,6 +184,7 @@ This was the beginning of a very important week in Jesus’s life.
 
 
 ---
+<br>
 
 ### Chapter 4 — *The Trial and Crucifixion*
   Jesus was taken to Pontius Pilate, the Roman governor. Pilate didn't think Jesus had done anything wrong, but the crowd, influenced by the religious leaders, demanded that Jesus be crucified. Jesus was sentenced to death and had to carry his cross to a place called Golgotha. He was crucified between two criminals. Even while suffering, Jesus forgave the people who were hurting him.
@@ -189,9 +202,10 @@ Jesus said several important things before he died:
 - "It is finished." (John 19:30) - Jesus declared that his mission was complete.
 - "Father, into your hands I commit my spirit!" (Luke 23:46) - Jesus entrusted his spirit to God before he died.
 
-After saying these things, Jesus died.
+After saying these things, Jesus then died.
 
 ---
+<br>
 
 ### Chapter 5 — *The Resurrection*
   Early on Easter Sunday, Mary Magdalene and some other women went to Jesus's tomb to take care of his body. But when they got there, they found the stone rolled away and the tomb empty. An angel told them that Jesus had risen from the dead, meaning he had come back to life. Mary Magdalene ran to tell the disciples, who didn't believe her at first but later saw Jesus themselves.
@@ -203,14 +217,18 @@ After saying these things, Jesus died.
   For the next 40 days, Jesus stayed with his disciples, teaching and preparing them for when he would go back to heaven. This time was very special and powerful for the disciples.
 
 ---
+<br>
 
 ### Chapter 6 — *The Meaning of Easter*
   Easter is a time of renewal and joy. God sacrificed his only son, Jesus, so that we could be forgiven for our sins and have eternal life in heaven. This amazing sacrifice shows how much God loves us. We should always be thankful for this incredible gift.
+  
   People celebrate Easter in many ways around the world. They decorate and exchange Easter eggs, which symbolize new life. Churches hold special services with songs, prayers, and joyful gatherings. Families come together to share meals and enjoy each other's company.
+  
   Easter reminds us of Jesus's love and the promise of eternal life. It's a time to remember the incredible love and sacrifice of Jesus and to celebrate the new life and hope that his resurrection brings to the world.
 <br>
 
 ---
+<br>
 <br>
 <br>
 <br>
