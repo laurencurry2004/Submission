@@ -81,6 +81,7 @@ ___
 
 <br>
 <br>
+
 - **Follow-Up:**  
   “Make sure the title says ‘Jesus’s Easter Story: From Darkness to Light.’”  
 - **AI Response:** It couldn’t spell the title correctly, even after I tried to ask it multiple times. So I ended up going with this image
