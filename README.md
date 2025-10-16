@@ -1,16 +1,39 @@
-# "Jesus’s Easter Story: From Darkness to Light" 
-## AI Made Children's Story
+<div align="center">
+
+# "Jesus’s Easter Story: From Darkness to Light"
+## A Reflection on AI Collaboration in Religious Storytelling</h3>
+<br>
+
+**Author:** Lauren Curry
+
+**Journal:** CTRL+ALT+DH
+
+**Issue:** A Byte of Creativity, Issue 3.0
+
+**Date:** October 15, 2025
+
+</div>
+<br>
+
+___
+
+**Abstract**
+This project examines the use of AI as a creative collaborator in the process of creating a children’s book focusing on the Easter story. In several rounds of collaboration, the author polished the details of the narrative, the theological precision, the text’s visual age appropriateness, and produced Jesus’s Easter Story: From Darkness to Light. The reflection on the project speaks to the creative, technical, and ethical facets of using AI in a religious context, outlining the value of technological aid and the signifying the need for human oversight, empathy, and understanding of culture.
+
+
+**Citation:**
+Curry, Lauren. "Jesus’s Easter Story: From Darkness to Light — A Reflection on AI Collaboration in Religious Storytelling." CTRL+ALT+DH: A Byte of Creativity, Issue 3, October 15, 2025.
+
+**Tags:** 
+*AI and Creativity*  ·  *Digital Storytelling*  ·  *Children's Literature*  ·  *Religious Education*  ·  *Ethics of AI* ·  *Human-AI Collaboration*
 
 ---
 
-### 📘 Project Overview
-The aim of this project was to create an engaging children's book on the story of Easter for an older age group (8–12 years old).  
-The project involved collaborating with an AI to refine the storyline, simplify language, provide accurate theological details, and produce appropriate visuals.
+<br>
 
----
+## 🧩 Key AI Interactions
 
-### 🧩 Key AI Interactions
-
+### 📖 The AI-Generated Story
 ### 1. Initial Prompt
 - **User Request:**  
   “I want you to help me make an older children's book about Jesus's story and the meaning of Easter. Once we have a solid premise, I want you to create a series of images that can be used to pitch the book.”  
@@ -53,83 +76,136 @@ The project involved collaborating with an AI to refine the storyline, simplify 
 - **AI Response:**  
   Suggested several options; *“Jesus’s Easter Story: From Darkness to Light”* was selected.
 
+
+(Can link to 40 page full dialogue if needed)
+<br>
+<br>
+
+## 🎨 AI Generated Images
+
+### Cover Page Image:
+**User said:**  
+Let's start with creating an image for the front of the book. Create an interesting and inviting image of Jesus and the story of Easter. It shouldn't show any graphic images as it is for children. It should have the title of the story in big bold letters that have a fun font.  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+This is ok but make sure the title says "Jesus's Easter Story From Darkness to Light."  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+Can you include Jesus's disciples in it?  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+This looks pretty good but a little less busy.  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+This looks great. Keep this image but make sure the title reads "Jesus's Easter Story From Darkness to Light."  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+It is still spelled incorrectly but I guess we will go with it. 
+
+### Chapter 1 Image:
+**User said**
+Can you create an image for chapter 1 that is engaging for kids but also relates to the content of the chapter?  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+That's great. 
+
+### Chapter 2 Image:
+**User said**
+Now create an image for chapter 2 that is engaging for kids but also relates to the content of the chapter.  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+That's ok but they wouldn't have electricity during this time. Can you remove the light fixture at the top of the image?  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+Make it more engaging for children.  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+Ok these aren't great, I'll just use the first one you generated.  
+
+**Copilot said:**  
+I understand. I'm glad you found the first one useful! If you need any more help with the book or have any other requests, feel free to let me know. I'm here to assist you!  
+
+### Chapter 3 Image:
+**User said:**  
+Create an image for chapter 3 that is engaging for kids but also relates to the content of the chapter.  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+The image should show Jesus alone.  
+
+**Copilot said:**  
+*Copilot response*  
+
+### Chapter 4 Image:
+**User said:**  
+Make an image that depicts chapter 4 and is engaging for children.  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+Jesus should look very sad.  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+These aren't really representing the chapter. Maybe just create an image that shows Jesus carrying his own cross on his back that is appropriate for children.  
+
+**Copilot said:**  
+*Copilot response*  
+
+### Chapter 5 Image:
+**User said:**  
+Create an image for chapter 5 that shows the premise of the chapter and is engaging for children.  
+
+**Copilot said:**  
+*Copilot response*  
+
+**User said:**  
+Less theatrical.  
+
+**Copilot said:**  
+*Copilot response*  
+
 ___
-<br>
-<br>
 
-## 📖 The AI-Generated Story
-
-### *Jesus’s Easter Story: From Darkness to Light*
-
-#### Chapters
-1. Jesus Enters Jerusalem  
-2. The Last Supper  
-3. The Betrayal and Arrest  
-4. The Trial and Crucifixion  
-5. The Resurrection  
-6. The Meaning of Easter
-
-<br>
-
- ## 🎨 Image Generation
-
-### Cover Image Creation
-- **User Request:**  
-  “Let's start with creating an image for the front of the book. Create an interesting and inviting image of Jesus and the story of Easter. It shouldn't show any graphic images as it is for children. It should have the title of the story in big bold letters that have a fun font.”
-
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e"/>
-
-<br>
-<br>
-
-- **Follow-Up:**  
-  “Make sure the title says ‘Jesus’s Easter Story: From Darkness to Light.’”  
-- **AI Response:** It couldn’t spell the title correctly, even after I tried to ask it multiple times. So I ended up going with this image
-- **You said:** "It is still spelled incorrectly but I guess we will go with it. Can you create an image for each chapter that is engaging for kids but also relates to the content of each corresponding chapter."
-
-<br>
-<br>
-
-### Chapter Images
-**Chapter 1:** Jesus Enters Jerusalem  
-<br>
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/e7ff0bfd-3bfa-4233-9b09-4e21075feb8a" />
-
-<br>
-<br>
-<br>
-
-**Chapter 2:** The Last Supper  
-- **Refinements:** "That's ok but they wouldn't have electricity during this time. Can you remove the light fixture at the top of the image?"
-- **You said:** "ok these aren't great i'll just use the first one you generated"
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/3c70213f-09b8-4072-9506-ae25f81ea377" />
-
-<br>
-<br>
-<br>
-
-**Chapter 3:** The Betrayal and Arrest  
-- **Refinements:** "the image should show Jesus alone?"
-- **You said:** "ok that’s better"
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/c4357f60-bc83-4677-be0d-4d62d0839dd6" />
-
-<br>
-<br>
-<br>
-
-**Chapter 4:** The Trial and Crucifixion  
-- **Refinements:** "Jesus should look very sad?" or “Create an image that shows Jesus carrying his own cross on his back that is appropriate for children.”
-- **You said:** "This is ok for now"
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/5c48d63d-eddc-448e-80f0-3537c5f9d947" />
-
-<br>
-<br>
-<br>
-
-**Chapter 5:** The Resurrection  
-- **Refinements:** "less theatrical”
-- **You said:** "I’ll just go with the first one"
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/0131ce26-0abd-49b8-895c-37c300fae6a9" />
+3. General Illustration Guidelines
+Historical Accuracy:
+You repeatedly reminded Copilot to avoid modern elements and to ensure the clothing and setting were appropriate for the time of Jesus.
+Simplicity:
+You requested that images be clear, not too busy, and focused on the main subject or emotion.
+Child-Friendliness:
+You emphasized that all images should be suitable for young children, avoiding anything graphic or frightening.
 
 ---
 <br>
@@ -139,7 +215,7 @@ ___
 ## FINAL CREATION
 ## 📚 A Children’s Tale Inspired by a Beloved Christian Story
 <p align="center">
-<img width="850" height="850" alt="Image" src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e" >
+<img width="750" height="750" alt="An illustration of Jesus with a glowing halo, dressed in white and yellow robes, surrounded by children and adults. In the background are crosses on a hill, an open tomb, and a sunrise, symbolizing resurrection. White doves and flowers enhance the celebratory Easter theme." src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e" >
 </p>
 
 <br>
@@ -149,7 +225,7 @@ ___
 This was the beginning of a very important week in Jesus’s life.
 
 <p align="center">
-<img width="850" height="850" alt="Image" src="https://github.com/user-attachments/assets/e7ff0bfd-3bfa-4233-9b09-4e21075feb8a" >
+<img width="750" height="750" alt="An illustration of Jesus riding a donkey, wearing white robes, a red cloak, and a crown of leaves. He is greeted by a joyful crowd holding palm branches. The background shows a cityscape with stone buildings and a blue sky, symbolizing his entry into Jerusalem." src="https://github.com/user-attachments/assets/e7ff0bfd-3bfa-4233-9b09-4e21075feb8a" >
 </p>
 
 ---
@@ -159,7 +235,7 @@ This was the beginning of a very important week in Jesus’s life.
   Jesus had a special meal with his twelve disciples, called the Last Supper. He shared bread and wine with them and explained that these were symbols of his body and blood. 
 
 <p align="center">
-<img width="850" height="850" alt="Image" src="https://github.com/user-attachments/assets/3c70213f-09b8-4072-9506-ae25f81ea377" >
+<img width="750" height="750" alt="An illistration of the Last Supper with Jesus at the center of a long table, wearing a white robe and golden sash. Twelve figures surround him in colorful robes. The table holds bread, wine, and a jug, set in a room with arched windows and green shutters." src="https://github.com/user-attachments/assets/3c70213f-09b8-4072-9506-ae25f81ea377" >
 </p>
   
   Jesus told his disciples to remember him whenever they shared this meal. He also washed their feet to show them that even a leader should serve others with love and kindness.
@@ -172,13 +248,13 @@ This was the beginning of a very important week in Jesus’s life.
   After the Last Supper, Jesus went to a garden called Gethsemane to pray. He was very sad because he knew what was going to happen. Jesus prayed to God, asking if there was any way to avoid the suffering he was about to face, but he accepted God's plan.
 
 <p align="center">
-  <img width="850" height="850" alt="Image" src="https://github.com/user-attachments/assets/c4357f60-bc83-4677-be0d-4d62d0839dd6" >
+  <img width="750" height="750" alt="An illitration of a garden scene at night with Jesus alone in a white robe and brown sash standing on a stone path. The background features a full moon, starry sky, and tall cypress trees." src="https://github.com/user-attachments/assets/c4357f60-bc83-4677-be0d-4d62d0839dd6" >
 </p>
   
   Meanwhile, Judas, one of Jesus's disciples, had made a deal with the religious leaders to betray Jesus for thirty pieces of silver. The leaders thought Jesus was lying about being the Son of God, which they considered very disrespectful. Judas led some soldiers to the garden and showed them who Jesus was by greeting him with a kiss on the cheek. 
 
 <p align="center">
-  <img width="850" height="850" alt="Image" src="https://github.com/user-attachments/assets/2e46a8b5-c1e1-49a8-a5e0-7146bb7792cd" >
+  <img width="750" height="750" alt="A nighttime illistration with Jesus in white robes and a green shawl speaking to a group. Torches held by armored guards illuminate the setting, which includes tall trees and a full moon in a cloudy sky. The mood is dramatic and reverent." src="https://github.com/user-attachments/assets/2e46a8b5-c1e1-49a8-a5e0-7146bb7792cd" >
 </p>
  
   This was a common way to say hello back then. The soldiers arrested Jesus, and his disciples ran away, scared and confused.
@@ -191,7 +267,7 @@ This was the beginning of a very important week in Jesus’s life.
   Jesus was taken to Pontius Pilate, the Roman governor. Pilate didn't think Jesus had done anything wrong, but the crowd, influenced by the religious leaders, demanded that Jesus be crucified. Jesus was sentenced to death and had to carry his cross to a place called Golgotha. He was crucified between two criminals. Even while suffering, Jesus forgave the people who were hurting him.
 
 <p align="center">
-<img width="850" height="850" alt="Image" src="https://github.com/user-attachments/assets/5c48d63d-eddc-448e-80f0-3537c5f9d947" >
+<img width="750" height="750" alt="A cartoon-style illustration of Jesus carrying a large wooden cross, wearing a white robe and golden sash with a halo. He is surrounded by men, women, and children in traditional attire. The background includes green hills, a bright sun, and a clear sky." src="https://github.com/user-attachments/assets/5c48d63d-eddc-448e-80f0-3537c5f9d947" >
 </p>
 
 Jesus said several important things before he died:
@@ -212,7 +288,7 @@ After saying these things, Jesus then died.
   Early on Easter Sunday, Mary Magdalene and some other women went to Jesus's tomb to take care of his body. But when they got there, they found the stone rolled away and the tomb empty. An angel told them that Jesus had risen from the dead, meaning he had come back to life. Mary Magdalene ran to tell the disciples, who didn't believe her at first but later saw Jesus themselves.
 
 <p align="center">
-<img width="850" height="850" alt="Image" src="https://github.com/user-attachments/assets/0131ce26-0abd-49b8-895c-37c300fae6a9" >
+<img width="750" height="750" alt="An illistration of Jesus in white robes emerging from a stone tomb, surrounded by angels in prayer and flight. Children and adults watch in awe. The sky glows with light rays and clouds." src="https://github.com/user-attachments/assets/0131ce26-0abd-49b8-895c-37c300fae6a9" >
 </p>
 
   For the next 40 days, Jesus stayed with his disciples, teaching and preparing them for when he would go back to heaven. This time was very special and powerful for the disciples.
@@ -254,7 +330,7 @@ During my initial interaction with Copilot, I was impressed that the storyline c
 There are many ethical considerations that arose during this project. One thing I recognized was the way it highlighted how AI can hold a place in our education. While I think AI can certainly help us simplify and explain religious concepts, it's important to understand that it can’t replace human interpretation of Bible stories. This is because it is deeply rooted in personal experiences, traditions and faith which are human-based characteristics. I also think that it is equally important to understand how we can become complacent when we rely on AI creative works. If we fully embrace AI-generated stories and images about Christianity and other religions without oversights from humans as they evaluate AI processes, we open up the potential for misinformation, oversimplification of complex religious ideas, and the loss of culture. In the case of AI-generated children’s stories, the greater use of such AI created stories poses the threat of undermining the need for human narratives, raising ethical concerns about fair compensation and artistic value for human illustrators and writers. However, there is a potential that this may not be an accurate prediction. I think it’s also important to note that there is a potential that we will still value human artists and authors, even with AI creative works present as ‘we don’t think any less of birds when using planes.’ 
 <br>
 <br>
-	Another ethical consideration that has societal implications is the way AI can subtly shape the way religious stories are told and perceived. This potential for AI to control the way religious concepts are told can lessen human autonomy, as we lose control over religious narratives. Additionally, when AI is not carefully monitored, it may result in a favouring of some theological perspectives and beliefs over others. For these reasons, I believe that when AI systems are tasked with working with religious concepts they must be accompanied by human oversight. This is due to the fact that AI tools can become pointless in religious contexts where genuine understanding, moral reasoning, and emotional depth are needed. This ‘meaningful human control’ will help to ensure the accuracy and ethical responsibility of AI processes and outputs. I also think that human artists are more capable of   capturing cultural and historical nuances when creating religious images, making them better suited than AI-generated images for children's books. Overall, this project demonstrates that AI models need to be adjusted so that they respect cultural and religious ideas, improve historical and contextual accuracy, while also raising  a cause for concern on how we balance these AI tools with traditional human-only created products.
+	Another ethical consideration that has societal implications is the way AI can subtly shape the way religious stories are told and perceived. This potential for AI to control the way religious concepts are told can lessen human autonomy, as we lose control over religious narratives. Additionally, when AI is not carefully monitored, it may result in a favouring of some theological perspectives and beliefs over others. For these reasons, I believe that when AI systems are tasked with working with religious concepts they must be accompanied by human oversight. This is due to the fact that AI tools can become pointless in religious contexts where genuine understanding, moral reasoning, and emotional depth are needed. This ‘meaningful human control’ will help to ensure the accuracy and ethical responsibility of AI processes and outputs. I also think that human artists are more capable of   capturing cultural and historical nuances when creating religious images, making them better suited than AI-generated images for children's books. Overall, this project demonstrates that AI models need to be adjusted so that they respect cultural and religious ideas, improve historical and contextual accuracy, while also raising  a cause for concern on how we balance these AI tools with traditionally human-only created products.
 
 ---
 
