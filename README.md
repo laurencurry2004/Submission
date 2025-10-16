@@ -254,7 +254,7 @@ Less theatrical.
 <p align="center">
 <img width="650" height="650" alt="An illustration of Jesus with a glowing halo, dressed in white and yellow robes, surrounded by children and adults. In the background are crosses on a hill, an open tomb, and a sunrise, symbolizing resurrection. White doves and flowers enhance the celebratory Easter theme." src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e" >
 <br>
-<em>Cover Page</em>
+<em>Cover Image: Jesus's Easter Story</em>
 </p>
 
 <br>
@@ -266,7 +266,7 @@ This was the beginning of a very important week in Jesus’s life.
 <p align="center">
 <img width="650" height="650" alt="An illustration of Jesus riding a donkey, wearing white robes, a red cloak, and a crown of leaves. He is greeted by a joyful crowd holding palm branches. The background shows a cityscape with stone buildings and a blue sky, symbolizing his entry into Jerusalem." src="https://github.com/user-attachments/assets/e7ff0bfd-3bfa-4233-9b09-4e21075feb8a" > 
 <br>	
-<em>Jesus enters Jerusalem on a donkey as crowds cheer with palm branches.</em>
+<em>Chapter 1 Image.</em>
 </p>
 
 ---
@@ -278,7 +278,7 @@ This was the beginning of a very important week in Jesus’s life.
 <p align="center">
 <img width="650" height="650" alt="An illistration of the Last Supper with Jesus at the center of a long table, wearing a white robe and golden sash. Twelve figures surround him in colorful robes. The table holds bread, wine, and a jug, set in a room with arched windows and green shutters." src="https://github.com/user-attachments/assets/3c70213f-09b8-4072-9506-ae25f81ea377" >
 <br>
-<em>Jesus shares bread and wine with his disciples at their final meal.</em>
+<em>Chapter 2 Image.</em>
 </p>
   
   Jesus told his disciples to remember him whenever they shared this meal. He also washed their feet to show them that even a leader should serve others with love and kindness.
@@ -292,7 +292,7 @@ This was the beginning of a very important week in Jesus’s life.
 <p align="center">
   <img width="650" height="650" alt="An illitration of a garden scene at night with Jesus alone in a white robe and brown sash standing on a stone path. The background features a full moon, starry sky, and tall cypress trees." src="https://github.com/user-attachments/assets/c4357f60-bc83-4677-be0d-4d62d0839dd6" >
 <br>
-<em>Jesus prays alone in Gethsemane under the moonlit sky.</em>
+<em>Chapter 3 Image.</em>
 </p>
   
   Meanwhile, Judas, one of Jesus's disciples, had made a deal with the religious leaders to betray Jesus for thirty pieces of silver. The leaders thought Jesus was lying about being the Son of God, which they considered very disrespectful. Judas led some soldiers to the garden and showed them who Jesus was by greeting him with a kiss on the cheek. 
@@ -301,7 +301,7 @@ This was the beginning of a very important week in Jesus’s life.
 <br>
   <img width="650" height="650" alt="A nighttime illistration with Jesus in white robes and a green shawl speaking to a group. Torches held by armored guards illuminate the setting, which includes tall trees and a full moon in a cloudy sky. The mood is dramatic and reverent." src="https://github.com/user-attachments/assets/2e46a8b5-c1e1-49a8-a5e0-7146bb7792cd" >
 <br>
-<em>Jesus is arrested at night, surrounded by guards and disciples.</em>
+<em>Chapter 3.1 Image</em>
 </p>
  
   This was a common way to say hello back then. The soldiers arrested Jesus, and his disciples ran away, scared and confused.
@@ -316,7 +316,7 @@ This was the beginning of a very important week in Jesus’s life.
 <p align="center">
 <img width="650" height="650" alt="A cartoon-style illustration of Jesus carrying a large wooden cross, wearing a white robe and golden sash with a halo. He is surrounded by men, women, and children in traditional attire. The background includes green hills, a bright sun, and a clear sky." src="https://github.com/user-attachments/assets/5c48d63d-eddc-448e-80f0-3537c5f9d947" >
 <br>
-<em>Jesus walks toward Golgotha, carrying the cross through a crowd.</em>
+<em>Chapter 4 Image.</em>
 </p>
 
 Jesus said several important things before he died:
@@ -339,7 +339,7 @@ After saying these things, Jesus then died.
 <p align="center">
 <img width="650" height="650" alt="An illistration of Jesus in white robes emerging from a stone tomb, surrounded by angels in prayer and flight. Children and adults watch in awe. The sky glows with light rays and clouds." src="https://github.com/user-attachments/assets/0131ce26-0abd-49b8-895c-37c300fae6a9" >
 <br>
-<em>Jesus rises from the tomb, greeted by angels and witnesses</em>
+<em>Chapter 5 Image</em>
 </p>
 
   For the next 40 days, Jesus stayed with his disciples, teaching and preparing them for when he would go back to heaven. This time was very special and powerful for the disciples.
@@ -384,6 +384,9 @@ There are many ethical considerations that arose during this project. One thing 
 	Another ethical consideration that has societal implications is the way AI can subtly shape the way religious stories are told and perceived. This potential for AI to control the way religious concepts are told can lessen human autonomy, as we lose control over religious narratives. Additionally, when AI is not carefully monitored, it may result in a favouring of some theological perspectives and beliefs over others. For these reasons, I believe that when AI systems are tasked with working with religious concepts they must be accompanied by human oversight. This is due to the fact that AI tools can become pointless in religious contexts where genuine understanding, moral reasoning, and emotional depth are needed. This ‘meaningful human control’ will help to ensure the accuracy and ethical responsibility of AI processes and outputs. I also think that human artists are more capable of   capturing cultural and historical nuances when creating religious images, making them better suited than AI-generated images for children's books. Overall, this project demonstrates that AI models need to be adjusted so that they respect cultural and religious ideas, improve historical and contextual accuracy, while also raising  a cause for concern on how we balance these AI tools with traditionally human-only created products.
 
 ---
+
+**Reference List**
+GitHub Copilot. Accessed October 15, 2025. https://github.com/features/copilot.
 
 
 
