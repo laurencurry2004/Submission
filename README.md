@@ -17,12 +17,14 @@
 
 ___
 
-**Abstract**
-This project examines the use of AI as a creative collaborator in the process of creating a children’s book focusing on the Easter story. In several rounds of collaboration, the author polished the details of the narrative, the theological precision, the text’s visual age appropriateness, and produced Jesus’s Easter Story: From Darkness to Light. The reflection on the project speaks to the creative, technical, and ethical facets of using AI in a religious context, outlining the value of technological aid and the signifying the need for human oversight, empathy, and understanding of culture.
+**Abstract** This project examines the use of AI as a creative collaborator in the process of creating a children’s book focusing on the Easter story. In several rounds of collaboration, the author polished the details of the narrative, the theological precision, the text’s visual age appropriateness, and produced Jesus’s Easter Story: From Darkness to Light. The reflection on the project speaks to the creative, technical, and ethical facets of using AI in a religious context, outlining the value of technological aid and the signifying the need for human oversight, empathy, and understanding of culture.
 
+<br>
 
 **Citation:**
 Curry, Lauren. "Jesus’s Easter Story: From Darkness to Light — A Reflection on AI Collaboration in Religious Storytelling." CTRL+ALT+DH: A Byte of Creativity, Issue 3, October 15, 2025.
+
+<br>
 
 **Tags:** 
 *AI and Creativity*  ·  *Digital Storytelling*  ·  *Children's Literature*  ·  *Religious Education*  ·  *Ethics of AI* ·  *Human-AI Collaboration*
@@ -384,9 +386,15 @@ There are many ethical considerations that arose during this project. One thing 
 	Another ethical consideration that has societal implications is the way AI can subtly shape the way religious stories are told and perceived. This potential for AI to control the way religious concepts are told can lessen human autonomy, as we lose control over religious narratives. Additionally, when AI is not carefully monitored, it may result in a favouring of some theological perspectives and beliefs over others. For these reasons, I believe that when AI systems are tasked with working with religious concepts they must be accompanied by human oversight. This is due to the fact that AI tools can become pointless in religious contexts where genuine understanding, moral reasoning, and emotional depth are needed. This ‘meaningful human control’ will help to ensure the accuracy and ethical responsibility of AI processes and outputs. I also think that human artists are more capable of   capturing cultural and historical nuances when creating religious images, making them better suited than AI-generated images for children's books. Overall, this project demonstrates that AI models need to be adjusted so that they respect cultural and religious ideas, improve historical and contextual accuracy, while also raising  a cause for concern on how we balance these AI tools with traditionally human-only created products.
 
 ---
+<br>
+<br>
+<div align="center">
+	
+## **Reference List**
+</div>
+<br>
 
-**Reference List**
-GitHub Copilot. Accessed October 15, 2025. https://github.com/features/copilot.
+Copilot. https://copilot.microsoft.com/
 
 
 
