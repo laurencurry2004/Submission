@@ -127,6 +127,9 @@ This looks great. Keep this image but make sure the title reads "Jesus's Easter 
 **User said:**  
 It is still spelled incorrectly but I guess we will go with it. 
 
+<br>
+
+---
 ### Chapter 1 Image:
 **User said**
 Can you create an image for chapter 1 that is engaging for kids but also relates to the content of the chapter?  
@@ -139,6 +142,9 @@ Can you create an image for chapter 1 that is engaging for kids but also relates
 **User said:**  
 That's great. 
 
+<br>
+
+---
 ### Chapter 2 Image:
 **User said**
 Now create an image for chapter 2 that is engaging for kids but also relates to the content of the chapter.  
@@ -169,7 +175,9 @@ Ok these aren't great, I'll just use the first one you generated.
 
 **Copilot said:**  
 I understand. I'm glad you found the first one useful! If you need any more help with the book or have any other requests, feel free to let me know. I'm here to assist you!  
+<br>
 
+---
 ### Chapter 3 Image:
 **User said:**  
 Create an image for chapter 3 that is engaging for kids but also relates to the content of the chapter.  
@@ -186,6 +194,9 @@ The image should show Jesus alone.
 <img width="350" height="350" alt="Jesus stands alone in a moonlit garden, wearing a white robe and brown sash. He clasps his hands gently, surrounded by cypress trees and a stone path under a starry sky." src="https://github.com/user-attachments/assets/bee1c992-fb6d-47fd-be3e-990c0cef9e84" />
 <br>
 *Copilot*
+
+<br>
+---
 
 ### Chapter 4 Image:
 **User said:**  
@@ -212,6 +223,9 @@ These aren't really representing the chapter. Maybe just create an image that sh
 <br>
 *Copilot*
 
+<br>
+
+---
 ### Chapter 5 Image:
 **User said:**  
 Create an image for chapter 5 that shows the premise of the chapter and is engaging for children.  
@@ -230,12 +244,13 @@ Less theatrical.
 *Copilot*
 
 ---
+
 <br>
 <br>
 <br>
 
-## FINAL CREATION
-## 📚 A Children’s Tale Inspired by a Beloved Christian Story
+## *Final Creation*
+### 📚 A Children’s Tale Inspired by a Beloved Christian Story
 <p align="center">
 <img width="650" height="650" alt="An illustration of Jesus with a glowing halo, dressed in white and yellow robes, surrounded by children and adults. In the background are crosses on a hill, an open tomb, and a sunrise, symbolizing resurrection. White doves and flowers enhance the celebratory Easter theme." src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e" >
 <br>
