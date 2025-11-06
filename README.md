@@ -13,6 +13,10 @@
 **Date:** October 15, 2025
 
 </div>
+
+**Author Bio:** Lauren Curry is a fourth-year Culture & Technology Studies student at the University of Guelph, with a minor is English. Her creative work investigates how people use technology to express culture and meaning, with a growing interest in the ethical dimensions of AI-assisted creativity.
+
+</div>
 <br>
 
 ___
