@@ -1,3 +1,33 @@
+---
+title: "Jesus’s Easter Story: From Darkness to Light"
+subtitle: "A Reflection on AI Collaboration in Religious Storytelling"
+author: "Lauren Curry"
+journal: "CTRL+ALT+DH"
+issue: "A Byte of Creativity, Issue 3.0"
+date: 2025-10-15
+author_bio: >
+  Lauren Curry is a fourth-year Culture & Technology Studies student at the University of Guelph, with a minor in English. 
+  Her creative work investigates how people use technology to express culture and meaning, 
+  with a growing interest in the ethical dimensions of AI-assisted creativity.
+abstract: >
+  This project examines the use of AI as a creative collaborator in the process of creating a children’s book focusing on the Easter story. 
+  In several rounds of collaboration, the author polished the details of the narrative, the theological precision, the text’s visual age appropriateness, 
+  and produced Jesus’s Easter Story: From Darkness to Light. The reflection on the project speaks to the creative, technical, 
+  and ethical facets of using AI in a religious context, outlining the value of technological aid and signifying the need for human oversight, empathy, and understanding of culture.
+citation: "Curry, Lauren. 'Jesus’s Easter Story: From Darkness to Light — A Reflection on AI Collaboration in Religious Storytelling.' CTRL+ALT+DH: A Byte of Creativity, Issue 3, October 15, 2025."
+tags:
+  - AI and Creativity
+  - Digital Storytelling
+  - Children's Literature
+  - Religious Education
+  - Ethics of AI
+  - Human-AI Collaboration
+---
+
+
+<br>
+
+
 <div align="center">
 
 # "Jesus’s Easter Story: From Darkness to Light"
