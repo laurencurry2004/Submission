@@ -24,6 +24,7 @@ tags:
   - Human-AI Collaboration
 ---
 
+<!-- ^ added YAML fontmatter and author bio-->
 
 <br>
 
@@ -42,12 +43,7 @@ tags:
 
 **Date:** October 15, 2025
 
-<br>
-
-**Author Bio:** Lauren Curry is a fourth-year Culture & Technology Studies student at the University of Guelph, with a minor is English. Her creative work investigates how people use technology to express culture and meaning, with a growing interest in the ethical dimensions of AI-assisted creativity.
-
 </div>
-<br>
 
 ___
 
@@ -414,23 +410,42 @@ During my initial interaction with Copilot, I was impressed that the storyline c
 <br>
 
 ## 3. Ethical Implications
-There are many ethical considerations that arose during this project. One thing I recognized was the way it highlighted how AI can hold a place in our education. While I think AI can certainly help us simplify and explain religious concepts, it's important to understand that it can’t replace human interpretation of Bible stories. This is because it is deeply rooted in personal experiences, traditions and faith which are human-based characteristics. I also think that it is equally important to understand how we can become complacent when we rely on AI creative works. If we fully embrace AI-generated stories and images about Christianity and other religions without oversights from humans as they evaluate AI processes, we open up the potential for misinformation, oversimplification of complex religious ideas, and the loss of culture. In the case of AI-generated children’s stories, the greater use of such AI created stories poses the threat of undermining the need for human narratives, raising ethical concerns about fair compensation and artistic value for human illustrators and writers. However, there is a potential that this may not be an accurate prediction. I think it’s also important to note that there is a potential that we will still value human artists and authors, even with AI creative works present as ‘we don’t think any less of birds when using planes.’ 
+There are many ethical considerations that arose during this project. One thing I recognized was the way it highlighted how AI can hold a place in our education. While I think AI can certainly help us simplify and explain religious concepts, it's important to understand that it can’t replace human interpretation of Bible stories. This is because it is deeply rooted in personal experiences, traditions and faith which are human-based characteristics. I also think that it is equally important to understand how we can become complacent when we rely on AI creative works. If we fully embrace AI-generated stories and images about Christianity and other religions without oversights from humans as they evaluate AI processes, we open up the potential for misinformation, oversimplification of complex religious ideas, and the loss of culture. In the case of AI-generated children’s stories, the greater use of such AI created stories poses the threat of undermining the need for human narratives, raising ethical concerns about fair compensation and artistic value for human illustrators and writers (Rai et al., 2025). However, there is a potential that this may not be an accurate prediction. I think it’s also important to note that there is a potential that we will still value human artists and authors, even with AI creative works present as ‘we don’t think any less of birds when using planes.’ 
 <br>
 <br>
-	Another ethical consideration that has societal implications is the way AI can subtly shape the way religious stories are told and perceived. This potential for AI to control the way religious concepts are told can lessen human autonomy, as we lose control over religious narratives. Additionally, when AI is not carefully monitored, it may result in a favouring of some theological perspectives and beliefs over others. For these reasons, I believe that when AI systems are tasked with working with religious concepts they must be accompanied by human oversight. This is due to the fact that AI tools can become pointless in religious contexts where genuine understanding, moral reasoning, and emotional depth are needed. This ‘meaningful human control’ will help to ensure the accuracy and ethical responsibility of AI processes and outputs. I also think that human artists are more capable of   capturing cultural and historical nuances when creating religious images, making them better suited than AI-generated images for children's books. Overall, this project demonstrates that AI models need to be adjusted so that they respect cultural and religious ideas, improve historical and contextual accuracy, while also raising  a cause for concern on how we balance these AI tools with traditionally human-only created products.
+	Another ethical consideration that has societal implications is the way AI can subtly shape the way religious stories are told and perceived. This potential for AI to control the way religious concepts are told can lessen human autonomy, as we lose control over religious narratives. Additionally, when AI is not carefully monitored, it may result in a favouring of some theological perspectives and beliefs over others. For these reasons, I believe that when AI systems are tasked with working with religious concepts they must be accompanied by human oversight (Cavalcante Siebert et al., 2023). This is due to the fact that AI tools can become pointless in religious contexts where genuine understanding, moral reasoning, and emotional depth are needed. This ‘meaningful human control’ will help to ensure the accuracy and ethical responsibility of AI processes and outputs (Cavalcante Siebert et al., 2023). I also think that human artists are more capable of   capturing cultural and historical nuances when creating religious images, making them better suited than AI-generated images for children's books. Overall, this project demonstrates that AI models need to be adjusted so that they respect cultural and religious ideas, improve historical and contextual accuracy, while also raising  a cause for concern on how we balance these AI tools with traditionally human-only created products.
 
 ---
 <br>
 <br>
 <div align="center">
-	
-## **Reference List**
+
+
+<!-- added some acedemic theory from the course that I was drawing on -->
+### **Reference List**
 </div>
-<br>
+
+Cavalcante Siebert, L., Lupetti, M.L., Aizenberg, E. et al. Meaningful human control: actionable properties for AI system development. AI Ethics 3, 241–255 (2023). https://doi.org/10.1007/s43681-022-00167-3
 
 Copilot. https://copilot.microsoft.com/
 
+Rai, P., Gupta, K., Gabralla, L.A. et al. A royalty framework for copyright protection and accountability in AI-generated art. Discov Computing 28, 252 (2025). https://doi.org/10.1007/s10791-025-09766-0
 
+<br>
+<br>
+
+<!-- added read more section/more resources for readers to look at -->
+
+<div align="center">
+	
+### Read More
+</div>
+
+Corpuz, J. C. G. (2025). Faith and Artificial Intelligence (AI) in Catholic Education: A Theological Virtue Ethics Perspective. Religions, 16(8), 1083. https://doi.org/10.3390/rel16081083
+
+Papakostas, C. (2025). Artificial Intelligence in Religious Education: Ethical, Pedagogical, and Theological Perspectives. Religions, 16(5), 563. https://doi.org/10.3390/rel16050563
+
+Tsuria, R., & Tsuria, Y. (2024). Artificial Intelligence’s Understanding of Religion: Investigating the Moralistic Approaches Presented by Generative Artificial Intelligence Tools. Religions, 15(3), 375. https://doi.org/10.3390/rel15030375
 
 
 
